@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpAzbelt", "SharpAzbelt\SharpAzbelt.csproj", "{57D4D4F4-F083-47A3-AE33-AE2500ABA3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D4D4F4-F083-47A3-AE33-AE2500ABA3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D4D4F4-F083-47A3-AE33-AE2500ABA3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D4D4F4-F083-47A3-AE33-AE2500ABA3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D4D4F4-F083-47A3-AE33-AE2500ABA3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224CADF2-D06B-41CF-892E-7FEE79F92E72}
+	EndGlobalSection
+EndGlobal
